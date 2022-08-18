@@ -1,10 +1,10 @@
 # Previsao_produtividade
  Previsão da produtividade de funcionários do segmento têxtil, mais específicamente da indústria de vestuário.
 
-# Contextualização.
+# Contextualização
 O segmento têxil e de vestuário é um dos segmentos industriais mais importantes no mundo globalizado e o Brasil encontra-se entre os maiores players deste mercado. O intuito deste projeto é utilizar um algorítmo capaz de realizar uma regressão linear, visando prever a produtividade de funcionários que trabalham neste setor.
 
-# Informações sobre o projeto
+# Informações sobre os dados
 O dataset utilizado pode ser encontrado no [Kaggle](https://www.kaggle.com/datasets/ishadss/productivity-prediction-of-garment-employees) e contêm algumas caracteristicas como departamento, time, a produtividade desejada, tempo ocioso da produção, dentre outras. Abaixo seguem uma breve descrição das colunas:
 
 - **Date**: Data no formato Mês - Dia - Ano;
